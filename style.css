@@ -1,0 +1,17 @@
+nav {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+    font-size: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    list-style: none;
+    padding: 40px;
+    color: aliceblue;
+    position: fixed;
+}
